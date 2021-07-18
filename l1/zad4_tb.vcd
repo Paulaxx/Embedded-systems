@@ -1,0 +1,75 @@
+$date
+  Sun Mar 14 16:21:38 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module zad4_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 1 $ x $end
+$var reg 1 % y $end
+$scope module zad4_0 $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c $end
+$var reg 1 ) x $end
+$var reg 1 * y $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+0$
+0%
+0&
+0'
+0(
+0)
+0*
+#1000000
+1#
+1$
+1(
+1)
+#2000000
+1"
+0#
+0$
+1'
+0(
+0)
+#3000000
+1#
+1(
+#4000000
+1!
+0"
+0#
+1%
+1&
+0'
+0(
+1*
+#5000000
+1#
+0%
+1(
+0*
+#6000000
+1"
+0#
+1'
+0(
+#7000000
+1#
+1(
+#8000000

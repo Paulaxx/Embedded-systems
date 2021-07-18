@@ -1,0 +1,275 @@
+$date
+  Sat Mar 27 15:58:15 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module numeric_std $end
+$upscope $end
+$scope module example_tb $end
+$var reg 1 ! a $end
+$var reg 1 " b $end
+$var reg 1 # c $end
+$var reg 3 $ abc[2:0] $end
+$var reg 1 % x $end
+$scope module uut $end
+$var reg 1 & a $end
+$var reg 1 ' b $end
+$var reg 1 ( c $end
+$var reg 1 ) x $end
+$var reg 1 * not_or $end
+$var reg 1 + or_or $end
+$var reg 1 , or_not $end
+$scope module g1 $end
+$var reg 1 - x $end
+$var reg 1 . z $end
+$upscope $end
+$scope module g2 $end
+$var reg 1 / x $end
+$var reg 1 0 y $end
+$var reg 1 1 z $end
+$upscope $end
+$scope module g3 $end
+$var reg 1 2 x $end
+$var reg 1 3 y $end
+$var reg 1 4 z $end
+$upscope $end
+$scope module g4 $end
+$var reg 1 5 x $end
+$var reg 1 6 z $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+b000 $
+U%
+0&
+0'
+0(
+U)
+U*
+U+
+U,
+0-
+U.
+0/
+00
+U1
+U2
+U3
+U4
+U5
+U6
+#1000000
+U)
+1*
+0+
+1.
+01
+12
+03
+U4
+U6
+#2000000
+1,
+14
+15
+#3000000
+0%
+0)
+06
+#100000000
+#200000000
+1#
+1(
+10
+#201000000
+1+
+11
+13
+#202000000
+14
+#210000000
+1"
+0#
+1'
+0(
+1/
+00
+#211000000
+11
+#220000000
+1#
+1(
+10
+#221000000
+11
+#230000000
+1!
+0"
+0#
+1&
+0'
+0(
+1-
+0/
+00
+#231000000
+0*
+0+
+0.
+01
+02
+03
+#232000000
+0,
+04
+05
+#233000000
+1%
+1)
+16
+#240000000
+1#
+1(
+10
+#241000000
+1+
+11
+13
+#242000000
+1,
+14
+15
+#243000000
+0%
+0)
+06
+#250000000
+1"
+0#
+1'
+0(
+1/
+00
+#251000000
+11
+#260000000
+1#
+1(
+10
+#261000000
+11
+#360000000
+0!
+0"
+0#
+b001 $
+0&
+0'
+0(
+0-
+0/
+00
+#361000000
+1*
+0+
+1.
+01
+12
+03
+#362000000
+14
+#370000000
+1#
+b010 $
+1(
+10
+#371000000
+1+
+11
+13
+#372000000
+14
+#380000000
+1"
+0#
+b011 $
+1'
+0(
+1/
+00
+#381000000
+11
+#390000000
+1#
+b100 $
+1(
+10
+#391000000
+11
+#400000000
+1!
+0"
+0#
+b101 $
+1&
+0'
+0(
+1-
+0/
+00
+#401000000
+0*
+0+
+0.
+01
+02
+03
+#402000000
+0,
+04
+05
+#403000000
+1%
+1)
+16
+#410000000
+1#
+b110 $
+1(
+10
+#411000000
+1+
+11
+13
+#412000000
+1,
+14
+15
+#413000000
+0%
+0)
+06
+#420000000
+1"
+0#
+b111 $
+1'
+0(
+1/
+00
+#421000000
+11
+#430000000
